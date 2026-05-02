@@ -1,41 +1,16 @@
-# 🍔 Flutter Food App
+# 🍔 Food Delivery App UI
 
-A simple and modern food ordering UI built using Flutter.
+A simple and modern food delivery mobile app UI built using Flutter.
 
----
+## Features
+- Clean and modern design
+- Easy navigation
+- Responsive UI
 
-## 📱 Screens
+## Tech Stack
+- Flutter
+- Dart
 
-* Home Screen
-* Product Details Screen
-* Favorites Screen
-* Profile Screen
-
----
-
-## ✨ Features
-
-* Browse food categories
-* View product details
-* Add items to favorites ❤️
-* Clean and modern UI
-
----
-
-## 🛠 Technologies Used
-
-* Flutter
-* Dart
-
----
-
-## 🚀 Run the App
-
+## Run the App
 flutter pub get
 flutter run
-
----
-
-## 👩‍💻 Author
-
-Fatma Abdelfatah
